@@ -4,4 +4,6 @@
 
 var nombre = "Nacho";
 
-console.log("Bienvenido " + nombre);
+console.log("Bienvenid@ " + nombre);
+console.log("Bienvenid@", nombre);
+console.log(`Bienvenid@ ${nombre}`);
